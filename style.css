@@ -1,0 +1,45 @@
+#main {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#main .header {
+    font-size: 40px;
+}
+
+#main .intro {
+    font-size: 16px;
+}
+
+#main #recipes {
+    font-size: 12px;
+}
+
+#lasagna .home,
+#lasagna .header,
+#chicken-katsu .home,
+#chicken-katsu .header
+{
+    text-align: center;
+    font-size: 40px;
+}
+
+#lasagna .home,
+#chicken-katsu .home {
+    font-size: 40px;
+}
+
+#lasagna .result,
+#chicken-katsu .result {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#lasagna .result-description,
+#chicken-katsu .result-description {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
