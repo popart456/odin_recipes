@@ -43,3 +43,24 @@
     font-size: 16px;
     margin-bottom: 100px;
 }
+
+ul {
+    list-style: none;
+}
+
+#recipes a, .home a {
+    color: black;
+    text-decoration: none;
+}
+
+.home a {
+    font-size: 24px;
+}
+
+#recipes a {
+    font-size: 14px;
+}
+
+#recipes a:hover, .home a:hover {
+    text-decoration: underline;
+}
